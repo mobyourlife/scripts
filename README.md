@@ -1,2 +1,5 @@
-# scripts
-Scripts úteis.
+# Scripts
+Scripts úteis
+
+# License
+MIT.
